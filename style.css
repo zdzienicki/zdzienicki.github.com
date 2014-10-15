@@ -2,3 +2,12 @@ body {
   background-color: black;
   color: yellow;
   }
+
+h1 {
+  font-size: 72px;
+  font-weight: bold;
+}
+
+h2 {
+  font-size: 36px;
+}
