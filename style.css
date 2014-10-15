@@ -2,6 +2,12 @@ body {
   background-color: black;
   color: yellow;
   }
+  
+.master {
+  width: 600px;
+  align: center;
+  text-align: right;
+}
 
 h1 {
   font-size: 72px;
