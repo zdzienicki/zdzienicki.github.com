@@ -1,11 +1,9 @@
 body {
   background-color: black;
-  color: yellow;
+  color: silver;
   }
   
 .master {
-  width: 600px;
-  align: center;
   text-align: right;
 }
 
