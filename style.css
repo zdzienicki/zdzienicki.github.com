@@ -1,6 +1,7 @@
 body {
   background-color: black;
   color: silver;
+  font-family: Helvetica;
   }
   
 .master {
@@ -14,4 +15,14 @@ h1 {
 
 h2 {
   font-size: 36px;
+  margin-bottom: 100px;
+}
+
+a {
+	color: silver;
+}
+
+a:hover, a:visited {
+	color: silver;
+	text-decoration: none;
 }
