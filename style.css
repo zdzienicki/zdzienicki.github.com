@@ -1,28 +1,49 @@
 body {
-  background-color: black;
-  color: silver;
-  font-family: Helvetica;
-  }
-  
-.master {
-  text-align: right;
+	background-color: white;
+}
+
+.header {
+	padding-top: 80px;
+	padding-bottom: 80px;
+	color: black;
+	font-family: Helvetica;
 }
 
 h1 {
-  font-size: 72px;
-  font-weight: bold;
+	font-size: 128px;
+	text-align: center;
 }
 
 h2 {
-  font-size: 36px;
-  margin-bottom: 100px;
+	font-size: 36px;
+	text-align: center;
 }
 
-a {
-	color: silver;
+.thumbnail {
+	padding: 0;
+	border: none;
 }
 
-a:hover, a:visited {
-	color: silver;
-	text-decoration: none;
+.thumbnail > .caption > h3 {
+	font-size: 36px;
+	text-align: center;
+	font-family: Helvetica;
+}
+
+p {
+	font-size: 24px;
+}
+
+.row {
+	padding-bottom: 80px;
+}
+
+.col-md-4 > .thumbnail > .caption {
+	padding-left: 0px;
+	padding-right: 0px;
+}
+
+.text-muted {
+	text-align: center;
+	font-size: 14px;
 }
