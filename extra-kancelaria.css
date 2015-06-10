@@ -1,5 +1,5 @@
 body {
-	padding-top: 100px;
+	padding-top: 90px;
 	background-image: url(./img/stripe.png);
 	background-repeat: repeat;
 }
@@ -44,8 +44,7 @@ a:hover, a:focus {
 	font-family: Helvetica;
 	color: white;
 	height: 560px;
-	margin-top: -10px;
-	margin-bottom: 40px;
+	margin-bottom: 20px;
 }
 
 .jumbotron > h1 {
@@ -63,6 +62,10 @@ a:hover, a:focus {
 	color: #294488;
 	text-align: center;
 	font-family: Verdana;
+}
+
+#offer, #userstories, #contact {
+	padding-top: 90px;
 }
 
 .col-md-4 {
@@ -86,9 +89,16 @@ p {
 	background-color: #294488;
 	color: white;
 	text-align: center;
-	padding: 50px 50px 50px 50px; 
+	margin-top: 61px;
+	padding: 50px 50px 5px 50px; 
 }
 
 .footer > h1 {
 	font-size: 80px;
+}
+
+.bartosz {
+	color: #9E9E9E;
+	font-size: 10px;
+	padding-top: 50px;
 }
