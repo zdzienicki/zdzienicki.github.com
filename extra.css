@@ -1,5 +1,5 @@
 body {
-	background-color: white;
+	background-color: beige;
 }
 
 .header {
@@ -9,8 +9,8 @@ body {
 	font-family: Helvetica;
 }
 
-h1 {
-	/* font-size: 128px; */
+/* h1 {
+	font-size: 128px;
 	text-align: center;
 }
 
@@ -25,10 +25,10 @@ h6 {
 }
 
 h2 {
-	/* font-size: 36px; */
+	font-size: 36px;
 	text-align: center;
 }
-
+*/
 .thumbnail {
 	padding: 0;
 	border: none;
