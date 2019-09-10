@@ -29,6 +29,10 @@ p {
 	color: gray;
 }
 
+.name {
+	font-weight: bolder;
+}
+
 .row {
 	padding-bottom: 80px;
 }
